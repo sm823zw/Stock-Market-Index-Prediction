@@ -18,7 +18,7 @@ Performance on test set -
 |        Encoder-Decoder       	| 1419.03 	| 36.94 	|
 |         DARNN - tanh         	|   2.03  	| 0.913 	|
 |  DARNN - Scaled Dot Product  	|   2.00  	| 0.905 	|
-| DARNN - multi-head attention 	|   2.01  	|  0.91 	|
+| DARNN - two-head attention 	  |   2.01  	|  0.91 	|
 
 
 The plots are of the NASDAQ index (test set).
