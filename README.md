@@ -16,7 +16,7 @@ Performance on test set -
 |          Model Type          	|   MSE   	|  MAE  	|
 |:----------------------------:	|:-------:	|:-----:	|
 |        Encoder-Decoder       	| 1419.03 	| 36.94 	|
-|         DARNN - tanh         	|   2.03  	| 0.913 	|
+|         DARNN - baseline     	|   2.03  	| 0.913 	|
 |  DARNN - Scaled Dot Product  	|   2.00  	| 0.905 	|
 | DARNN - two-head attention 	  |   2.01  	|  0.91 	|
 
